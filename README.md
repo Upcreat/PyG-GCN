@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/PyG-GCN-red)
 # PyG-GCN
-PyG implementation of GCN (Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017).
+* 包含已经有图结构的数据和无图结构的Knn构建方式
 
-Datasets: CiteSeer, Cora, PubMed, NELL.
+* PyG implementation of GCN (Semi-Supervised Classification with Graph Convolutional Networks, ICLR 2017).
+
+* Datasets: CiteSeer, Cora, PubMed, NELL.
 
 # Environment
 pytorch==1.10.1+cu111
